@@ -7,5 +7,5 @@
 2. https://www.reddit.com/
 ![Reddit comparison image](https://github.com/Michael-Ashfield/swd500ClassWork/blob/master/webdesign_and_dev/week1/session1/images/redditc.jpg)
 
-3. https://www.just-eat.co.uk/?ppc=1&gclid=EAIaIQobChMIzvfGkr7H1gIVyLftCh3WXAcuEAAYASAAEgI7f_D_BwE
-![Just Eat comparison image]()
+3. www.just-eat.co.uk/
+![Just Eat comparison image](https://github.com/Michael-Ashfield/swd500ClassWork/blob/master/webdesign_and_dev/week1/session1/images/jec.jpg)
